@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcceptanceTests", "AcceptanceTests\AcceptanceTests.csproj", "{55418D95-9E38-4DA5-9839-81825D4E7824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcceptanceTestsCore", "AcceptanceTestsCore\AcceptanceTestsCore.csproj", "{14CF97B5-0CD4-48C1-B704-CEF5AEBCB697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55418D95-9E38-4DA5-9839-81825D4E7824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55418D95-9E38-4DA5-9839-81825D4E7824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55418D95-9E38-4DA5-9839-81825D4E7824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55418D95-9E38-4DA5-9839-81825D4E7824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CF97B5-0CD4-48C1-B704-CEF5AEBCB697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CF97B5-0CD4-48C1-B704-CEF5AEBCB697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CF97B5-0CD4-48C1-B704-CEF5AEBCB697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CF97B5-0CD4-48C1-B704-CEF5AEBCB697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF59714-3538-45F9-AB04-4CDBC6939DA8}
+	EndGlobalSection
+EndGlobal
